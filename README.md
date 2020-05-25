@@ -1,5 +1,5 @@
-# Udacity's Udacity's AI Programming with Python Nanodegree Program: The Capstone Project
-This repository is part of my journey through Udacity's Cloud DevOps Engineer Nanodegree Program. The project was rated as passed in August 2019. See here for details of the program see [here](https://www.udacity.com/course/ai-programming-python-nanodegree--nd089). The repository with the virgin files can be found [here](https://github.com/udacity/aipnd-project).
+# Udacity's AI Programming with Python Nanodegree Program: The Capstone Project
+This repository is part of my journey through Udacity's AI Programming with Python Nanodegree Program. The project was rated as passed in August 2019. See here for details of the program see [here](https://www.udacity.com/course/ai-programming-python-nanodegree--nd089). The repository with the virgin files can be found [here](https://github.com/udacity/aipnd-project).
 
 
 ## Project Overview
